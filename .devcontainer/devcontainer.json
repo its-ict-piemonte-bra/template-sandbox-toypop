@@ -10,7 +10,8 @@
 				"mhutchie.git-graph",
 				"dbaeumer.vscode-eslint",
 				"bengreenier.vscode-node-readme",
-				"christian-kohler.npm-intellisense"
+				"christian-kohler.npm-intellisense",
+				"yandeu.five-server"
 			]
 		}
 	},
